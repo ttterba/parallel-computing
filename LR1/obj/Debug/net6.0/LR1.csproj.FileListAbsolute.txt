@@ -1,0 +1,15 @@
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\bin\Debug\net6.0\LR1.exe
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\bin\Debug\net6.0\LR1.deps.json
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\bin\Debug\net6.0\LR1.runtimeconfig.json
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\bin\Debug\net6.0\LR1.dll
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\bin\Debug\net6.0\LR1.pdb
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\obj\Debug\net6.0\LR1.csproj.AssemblyReference.cache
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\obj\Debug\net6.0\LR1.GeneratedMSBuildEditorConfig.editorconfig
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\obj\Debug\net6.0\LR1.AssemblyInfoInputs.cache
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\obj\Debug\net6.0\LR1.AssemblyInfo.cs
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\obj\Debug\net6.0\LR1.csproj.CoreCompileInputs.cache
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\obj\Debug\net6.0\LR1.dll
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\obj\Debug\net6.0\refint\LR1.dll
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\obj\Debug\net6.0\LR1.pdb
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\obj\Debug\net6.0\LR1.genruntimeconfig.cache
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR1\obj\Debug\net6.0\ref\LR1.dll
