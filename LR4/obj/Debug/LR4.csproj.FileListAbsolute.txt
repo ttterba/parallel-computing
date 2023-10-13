@@ -1,0 +1,8 @@
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR4\bin\Debug\LR4.exe.config
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR4\bin\Debug\LR4.exe
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR4\bin\Debug\LR4.pdb
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR4\obj\Debug\LR4.csproj.SuggestedBindingRedirects.cache
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR4\obj\Debug\LR4.exe
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR4\obj\Debug\LR4.pdb

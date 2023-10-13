@@ -1,0 +1,8 @@
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR8\bin\Debug\LR8.exe.config
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR8\bin\Debug\LR8.exe
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR8\bin\Debug\LR8.pdb
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR8\obj\Debug\LR8.csproj.AssemblyReference.cache
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR8\obj\Debug\LR8.csproj.SuggestedBindingRedirects.cache
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR8\obj\Debug\LR8.csproj.CoreCompileInputs.cache
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR8\obj\Debug\LR8.exe
+D:\My folders\NCFU\4-й курс\Введение в тех. высокопроизв. выч\source\LR8\obj\Debug\LR8.pdb
